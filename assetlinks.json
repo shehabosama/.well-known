@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.applinkingapplication",
+    "package_name": "biz.enon.tra.uae",
     "sha256_cert_fingerprints":
-    ["55:E0:F9:E8:3B:BA:89:5F:89:99:59:9E:B9:65:56:9E:90:B2:02:FA:27:35:FF:9E:DD:CA:D5:2C:A0:55:D0:D2"]
+    ["51:EA:15:E9:07:4D:29:A6:68:B1:24:CB:FD:79:9F:E8:E0:82:F4:31:04:D8:82:46:CF:57:55:5C:4A:ED:DB:B2"]
   }
 }]
